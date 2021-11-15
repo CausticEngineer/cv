@@ -18,30 +18,51 @@ ___
 **R&D Disruptive Innovations, Innovations Manager, Computer Vision Engineer @ [MAY LLC](https://www.themay.com/en/)** <br>
 _Moscow, Russia (May 2020 - Present)_ <br>
 
+_TO FILL IN_ <br>
+
 **R&D, Data Science Projects @ [MARS LLC](https://www.mars.com/)** <br>
 _Moscow, Russia (September 2018 - May 2020)_ <br>
+
+_TO FILL IN_ <br>
 
 **R&D, Senior Packaging Development Technologist @ [MARS LLC](https://www.mars.com/)** <br>
 _Moscow, Russia (September 2014 - May 2020)_ <br>
 
+_TO FILL IN_ <br>
+
 ___
 ## Education
 **Bauman Moscow State Technical University** <br>
-_Moscow, Russia (September 2004 - June 2010) <br>
+_Moscow, Russia (September 2004 - June 2010)_ <br>
 
 - Master’s Degree in Mechanical Engineering
 - Specialization in Multipurpose Wheeled and Tracked Machines
 - Diploma project: modernization of multipurpose crawler tractor for providing mission demining
 - GPA – 4,23/5,0
 
-**Courses passed:** 
-[Yandex and MIPT specialization](https://www.coursera.org/specializations/machine-learning-data-analysis), 
+**Courses passed:** <br>
+[Yandex and MIPT specialization](https://www.coursera.org/specializations/machine-learning-data-analysis),
+[mlcourse.ai fall 2018 by ODS](https://mlcourse.ai/) (158 of 2323 rating),
 [HSE introduction to Deep Learning](https://www.coursera.org/account/accomplishments/verify/WZ2G6PVVBSEP), 
 [HSE basics of Python](https://www.coursera.org/account/accomplishments/verify/PEKGZ5WGAXLZ),
-[mlcourse.ai fall 2018 by ODS](https://mlcourse.ai/) (158 of 2323 rating)
+[Crash Course on Python](https://www.coursera.org/learn/python-crash-course/home/welcome).
 
 ___
 ## Additional
-Founded a startup on object detection in 2014 - 2015. We developed surfers detection system, which is capable to track surfers 
-on waves by pan-tilt-zoom camera. Responsible for models training, development scripts for semi-auto labeling and development part of tracking system.
+**Startup Co-Founder** <br>
+_Moscow Russia, Bali Indonesia (2014 - 2015)_ <br>
+Developed surfers detection system, which is capable to detect and track surfers on waves by pan-tilt-zoom camera. <br>
+Responsible for models training, development scripts for semi-auto labeling and development part of tracking system. <br>
 [Example of field tests on Bali Island](https://www.youtube.com/watch?v=FGDQTwgcGQM)
+
+___
+## Other
+- Multiple winner of the mathematical, physical competitions and conferences
+- Two diplomas of music education (domra and trombone). In addition, play the guitar and piano
+- Medalist in strength of materials in the Bauman University competition
+- Captain of the University's and Mars`s football teams
+- Have completed Coursera courses of Flying robotics development, Learning how to learn, projects on Arduino
+
+
+
+
