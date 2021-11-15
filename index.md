@@ -1,37 +1,19 @@
-## Konstantin Avramenko
+# Konstantin Avramenko
+<img src="user_pic.jpeg" alt="drawing" width="200"/>
 
-You can use the [editor on GitHub](https://github.com/CausticEngineer/cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+_Computer Vision engineer (focused on R&D and True Innovations) based in Moscow, Russia_ <br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Email](mailto:kuavramenko@gmail.com) / [LinkedIn](https://www.linkedin.com/in/konstantin-avramenko-24842472/) / [GitHub](https://github.com/CausticEngineer/) /
+[Kaggle](https://www.kaggle.com/caustic)
 
-### Markdown
+___
+## Education
+### Bauman Moscow State Technical University <br>
+Moscow, Russia <br>
+2004 - 2010 <br>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Master’s Degree in Mechanical Engineering
+- Specialization in Multipurpose Wheeled and Tracked Machines
+- Diploma project: modernization of multipurpose crawler tractor for providing mission demining
+- GPA – 4,23/5,0
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CausticEngineer/cv/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
