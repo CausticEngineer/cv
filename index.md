@@ -13,8 +13,19 @@ Disruptive Innovations, Computer Vision).
 Key technologies stack: Python, Pandas, Sklearn, Numpy, Scipy, Pytorch, Tensorflow, Bash, Git, Minitab, AutoCad, SolidWorks. <br>
 
 ___
+## Experience
+
+### **R&D Disruptive Innovations, Innovations Manager, Computer Vision Engineer @ [MAY LLC](https://www.themay.com/en/)** <br>
+_(May 2020 - Present)_ <br>
+
+### **R&D, Data Science Projects @ [MARS LLC](https://www.mars.com/)** <br>
+_(September 2018 - May 2020)_ <br>
+
+### **R&D, Senior Packaging Development Technologist @ [MARS LLC](https://www.mars.com/)** <br>
+_(September 2014 - May 2020)_ <br>
+___
 ## Education
-### Bauman Moscow State Technical University <br>
+**Bauman Moscow State Technical University** <br>
 Moscow, Russia <br>
 2004 - 2010 <br>
 
