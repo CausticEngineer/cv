@@ -1,14 +1,14 @@
 # Konstantin Avramenko
 <img src="user_pic.jpeg" alt="drawing" width="200"/>
 
-_Computer Vision Engineer (focused on R&D and True Innovations) based in Moscow, Russia_ <br>
+_Computer Vision Engineer (disrupting traditional industry with CV) based in Moscow, Russia_ <br>
 
 [Email](mailto:kuavramenko@gmail.com) / [LinkedIn](https://www.linkedin.com/in/konstantin-avramenko-24842472/) / [GitHub](https://github.com/CausticEngineer/) /
 [Kaggle](https://www.kaggle.com/caustic)
 
 ___
 ## Skills
-Experienced engineer with a 10 year background of working in FMCG industrie in varoius roles (Process Engineer, Packaging Engineer, 
+Experienced engineer with a 10 year background of working in FMCG industry in varoius roles (Process Engineer, Packaging Engineer, 
 Disruptive Innovations, Computer Vision).
 Key technologies stack: Python, Pandas, Sklearn, Numpy, Scipy, Pytorch, Tensorflow, Bash, Git, Minitab, AutoCad, SolidWorks. <br>
 
@@ -52,7 +52,7 @@ ___
 **Startup Co-Founder** <br>
 _Moscow Russia, Bali Indonesia (2014 - 2015)_ <br>
 Developed surfers detection system, which is capable to detect and track surfers on waves by pan-tilt-zoom camera. <br>
-Responsible for models training, development scripts for semi-auto labeling and development part of tracking system. <br>
+Responsible for models training, development of scripts for semi-auto labeling and development of tracking system. <br>
 [Example of field tests on Bali Island](https://www.youtube.com/watch?v=FGDQTwgcGQM)
 
 ___
