@@ -65,7 +65,7 @@ ___
 - Multiple times winner of  of the mathematical, physical competitions and conferences
 - Music instruments: domra, trombone, guitar, piano.
 - Medalist in strength of materials in the Bauman University competition
-- Captain of the University's and Mars`s football teams
+- Captain in university's and Mars's LLC football teams
 - Have completed Coursera courses of Flying robotics development, Learning how to learn, projects on Arduino
 
 
