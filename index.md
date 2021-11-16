@@ -13,6 +13,11 @@ Disruptive Innovations, Computer Vision).
 Key technologies stack: Python, Pandas, Sklearn, Numpy, Scipy, Pytorch, Tensorflow, Bash, Git, Minitab, AutoCad, SolidWorks. <br>
 
 ___
+## Languages
+
+Russian (native), English <br>
+
+___
 ## Experience
 
 **R&D Disruptive Innovations, Innovations Manager, Computer Vision Engineer @ [MAY LLC](https://www.themay.com/en/)** <br>
@@ -57,8 +62,8 @@ Responsible for models training, development of scripts for semi-auto labeling a
 
 ___
 ## Other
-- Multiple winner of the mathematical, physical competitions and conferences
-- Two diplomas of music education (domra and trombone). In addition, play the guitar and piano
+- Multiple times winner of  of the mathematical, physical competitions and conferences
+- Music instruments: domra, trombone, guitar, piano.
 - Medalist in strength of materials in the Bauman University competition
 - Captain of the University's and Mars`s football teams
 - Have completed Coursera courses of Flying robotics development, Learning how to learn, projects on Arduino
