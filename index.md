@@ -20,7 +20,7 @@ Russian (native), English <br>
 ___
 ## Experience
 
-**R&D Disruptive Innovations, Innovations Manager, Computer Vision Engineer @ [MAY LLC](https://www.themay.com/en/)** <br>
+**R&D Disruptive Innovations, Innovations Manager, Computer Vision Engineer, Project Manager @ [MAY LLC](https://www.themay.com/en/)** <br>
 _Moscow, Russia (May 2020 - Present)_ <br>
 
 _TO FILL IN_ <br>
