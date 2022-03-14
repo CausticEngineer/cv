@@ -40,7 +40,7 @@ _Moscow, Russia (September 2018 - May 2020)_ <br>
 **R&D, Senior Packaging Development Technologist @ [MARS LLC](https://www.mars.com/)** <br>
 _Moscow, Russia (September 2014 - May 2020)_ <br>
 
-● Generated 200 MRUB of logistic savings and 100 MRUB of packaging savings by developing and
+● Generated 2,5M USD of logistic savings and 1,5M USD of packaging savings by developing and
 implementing improvements in palletization scheme, case count and material dimensions.
 ● Initiated and led evolutionary tree creation process for existent and potential future packaging concepts by applying TRIZ methodologies.
 ● Developed unique heavy (100 kg) store-ready kit for pouch products and supported rollout in Tander
